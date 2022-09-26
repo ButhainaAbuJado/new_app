@@ -6,7 +6,6 @@ import 'package:pet_cats_app/pages/login.dart';
 import 'package:pet_cats_app/pages/signup.dart';
 import 'package:pet_cats_app/provider/cart.dart';
 import 'package:flutter/material.dart';
-
 import 'package:provider/provider.dart';
 
 void main() {
